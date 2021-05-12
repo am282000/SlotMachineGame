@@ -10,8 +10,8 @@ function App() {
       <h1 className='heading_style'> 🎰 Welcome to <span style={{fontWeight:"bold"}}>SLOT MACHINE GAME</span> 🎰 </h1>
       <div>
         <SlotM x='😀' y='💌' z='🤡' /> <hr/>
-        <SlotM x='😀' y='😎' z='❤️' /> <hr/>
-        <SlotM x='🥞' y='😘' z='😂' /> <hr/>
+        <SlotM x='😎' y='😎' z='😎' /> <hr/>
+        <SlotM x='🐵' y='❤️' z='😂' /> <hr/>
         <SlotM x='😘' y='😘' z='😘' /> <hr/>
       </div> 
     </>   
